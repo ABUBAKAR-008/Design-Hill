@@ -1,0 +1,30 @@
+<div class="div-forpics">
+      <div class="inner-content">
+        <h1 class="inner-heading">
+            Over 10 Million Designs. <br> What are You Waiting for?
+          </h1>
+        <div class="for-flex">
+        <p class="inner-paragraph">
+          Millions of designers and artists look for design inspiration and jobs on Designhill. We encourage creative talent <br> around the world to get hired for design projects, showcase their portfolio and become a part of a global design community <br> -No matter the skill or experience.
+Founded in 2014, we are a bootstrapped <br> and profitable company helping design talents learn, grow and get hired by over millions of businesses around the globe.
+        </p>
+      </div>
+        <input type="button" value="start earning today">
+        <input type="button" value="Get design ideas">
+        <div class="pics">
+          <div class="flex">         
+             <div class="first-pic">
+           <div class="im-1"> <img class="first-firstimg" src="1.webp" alt="first-pic" style="width: 250px;">
+           </div>
+            <div class="im-2"><img src="2.webp" alt="second-pic" style=" width: 250px"></div>
+           <div class="3-im"> <img src="3.webp" alt="three-pic" style=" width: 250px"></div>
+          </div>
+          <div class="sec-pic">
+            <div class="im-4"><img src="4.webp" alt="four-pic" style=" width: 250px"></div>
+            <img class="fifth-img" src="5.webp" alt="five-pic" style=" width: 250px">
+          </div>
+        </div>
+
+        </div>
+      </div>
+     </div>
